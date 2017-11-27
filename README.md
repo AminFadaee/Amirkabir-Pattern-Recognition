@@ -6,3 +6,6 @@ This homework is about Probability and Statistics, Linear Algebra and Bayes Clas
 
 ## HW2
 This homework is about Bayesian Decision Theory.
+
+## HW3
+This homework is about maximum likelihood and bayesian parameter estimation.
