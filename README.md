@@ -10,5 +10,5 @@ This homework is about Bayesian Decision Theory.
 ## HW3
 This homework is about maximum likelihood and bayesian parameter estimation.
 
-$$ HW4
+## HW4
 This homework is about Parzen Window and KNN density estimation.
