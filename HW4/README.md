@@ -1,1 +1,4 @@
-
+This homework is about Parzen Window and KNN density estimation
+* The problems can be found in ```Handout.pdf```
+* The soulutions can be found in ```Solutions.pdf```
+* The codes used for deriving the solutions are in ```Python Codes``` directory.
