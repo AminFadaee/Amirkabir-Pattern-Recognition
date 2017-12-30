@@ -12,3 +12,6 @@ This homework is about maximum likelihood and bayesian parameter estimation.
 
 ## HW4
 This homework is about Parzen Window and KNN density estimation.
+
+## HW5
+This homework is about PCA and LDA.
